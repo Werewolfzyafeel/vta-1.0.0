@@ -28,7 +28,7 @@ Stabilization profile is global (per-weapon configurations coming soon).
 📦 Installation & Setup
 Download the archive.
 
-Unpack the contents (Archive Password: 1234).
+Unpack the contents (Archive Password: dio232).
 
 Run the launcher and wait for initialization.
 
